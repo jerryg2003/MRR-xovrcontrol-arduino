@@ -9,6 +9,11 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
+1. Attribution to original author must be included in all copies of the Software
+2. Copies of the licensed Software may not be sold unless substantial modifications
+have been made, where "substantial" is defined as changes other than simple renaming of
+variables or additions comprising at least 30% of the total lines of code (excluding comments).
+
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
