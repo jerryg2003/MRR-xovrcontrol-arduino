@@ -1,2 +1,2 @@
 # MRR-arduino-xovr
-Arduino sketch to control double crossover via JMRI/CMI
+Arduino sketch to control double crossover via JMRI/CMRI
